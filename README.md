@@ -25,7 +25,7 @@ This section provides a snapshot of my professional background.
 
 ### 📁 **Folders**
 - **certificates/** → All uploaded certification PDFs  
-- **awards/** → Award certificates (if any uploaded)
+- **awards/** → Award certificates
 
 ---
 
