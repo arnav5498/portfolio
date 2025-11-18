@@ -17,6 +17,6 @@
 [View Certificate](certificates/Product_Owner-Communications_And_Stakeholder_Management.pdf)
 
 ##  Introduction to Agile Development and Scrum — IBM
-[View Certificate](certificates/Introduction_to_Agile_Development_and_Scrumt.pdf)
+[View Certificate](certificates/Introduction_to_Agile_Development_and_Scrum.pdf)
 
  
