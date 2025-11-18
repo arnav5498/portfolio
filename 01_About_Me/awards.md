@@ -9,6 +9,7 @@
 - Recognised for maintaining low defect leakage, ensuring smooth production releases, and supporting cross team delivery efforts.
 ---
 [View Award](awards/GCC_Champ.jpeg)
+
 ---
 
 ## TransUnion – Best Performer Q3 2021 
