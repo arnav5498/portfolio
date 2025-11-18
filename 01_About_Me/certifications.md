@@ -1,4 +1,4 @@
 # Certifications
 
 ## PSPO-I — Scrum.org  
-[View Certificate](../certificates/PSPO-I.pdf)
+01_About_Me/certificates/Professional Scrum Product Owner I.pdf
