@@ -2,10 +2,10 @@
 
 ## TransUnion – GCC Champ Award
 **2022**
-
+[View Award](awards/Best_Performer_Q3_2021.jpeg)
 - Received Delivery Excellence Awards for consistent contribution, high quality releases, and strong collaboration during major delivery cycles in the Business System Evolution programme.  
 - Recognised for maintaining low defect leakage, ensuring smooth production releases, and supporting cross team delivery efforts.
-[View Award](certificates/Best_Performer_Q3_2021.jpeg)
+
 ---
 
 ## TransUnion – Best Performer Q3 2021 
