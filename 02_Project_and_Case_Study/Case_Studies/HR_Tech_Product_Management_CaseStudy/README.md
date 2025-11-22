@@ -1,5 +1,6 @@
-# Module 1 – Introduction to Enterprise Product Management  
-**SynergyHR – Product Development Process Case Study**
+#SynergyHR – Product Development Process Case Study#
+
+
 
 This case study explores how I applied enterprise PM fundamentals to a real scenario at a fictional company, Innovate Inc. It covers:
 
